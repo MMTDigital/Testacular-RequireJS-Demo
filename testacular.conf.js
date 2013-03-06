@@ -40,7 +40,7 @@ coverageReporter = {
 
 // test results reporter to use
 // possible values: 'dots', 'progress', 'junit'
-reporters = ['progress', 'coverage'];
+reporters = ['progress', 'coverage', 'growl'];
 
 
 // web server port
